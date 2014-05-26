@@ -11,3 +11,9 @@ web/bundles/*
 # Configuration files
 app/config/parameters.ini
 app/config/parameters.yml
+
+# PHPUnit
+app/phpunit.xml
+
+# Composer
+composer.phar
